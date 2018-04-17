@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ddjdjThis is a new file!
+=======
+henlokkdkd This is a new file!
+>>>>>>> 3f772d13e4bc73cdb99b9d08377c544b39256967
